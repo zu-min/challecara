@@ -13,10 +13,10 @@ sudo apt-get install imagemagick --fix-missing -y
 
 echo "Installs rbenv"
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
-echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
-echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
 git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
-source ~/.bash_profile
+source ~/.bashrc
 
 echo "Installs Ruby"
 rbenv install 2.2.2
