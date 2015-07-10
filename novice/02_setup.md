@@ -51,7 +51,34 @@ OSタイプは
 
 ## 3. Ubuntuを起動する
 
-TODO スクショ撮りながら起動時のユーザ設定の手順を書く
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm01.png" width="600" />  
+そのまま[続ける]を押してください。
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm02.png" width="600" />  
+そのまま[続ける]を押してください。
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm03.png" width="600" />  
+自分のノートパソコンのキーボードレイアウトを選択して[続ける]を押してください。
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm04.png" width="600" />  
+ユーザ名とパスワードを設定します。好きなものを設定して大丈夫です。ただし、パスワードは忘れないように気をつけて下さい。
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm05.png" width="600" />  
+初期設定が実行されます。しばらく待ちましょう！
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm06.png" width="600" />  
+初期設定が完了しました。ログインしてUbuntuを使い始めることができます！
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/setup_vm07.png" width="600" />
+ログインするとこのようなデスクトップが表示されます！
+
+### ターミナルの起動
+これ以降の手順はUbuntu上のターミナルを使いながら進めます。ターミナルの起動手順を説明します。
+
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal01.png" width="600" />
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal02.png" width="600" />
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal03.png" width="600" />  
+
 
 ## 4. ライブラリのインストール
 始めからインストールされているパッケージの更新を行います。パッケージとはソフトウェアを配布、インストールしやすい形にしたものです。
