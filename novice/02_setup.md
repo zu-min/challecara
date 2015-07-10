@@ -81,7 +81,7 @@ OSタイプは
 ジャン！起動しました。
 
 ### Ubuntuが遅い時の設定
-ターミナルを起動しようと操作をするとUbuntuがすごく遅く感じられるかもしれません。設定によりいくらか軽減できる可能性がりますので、下の設定を試してみてください。設定のためには一旦Ubuntuをシャットダウンして、VirtualBoxの設定を開いてください。
+ターミナルを起動しようと操作をするとUbuntuがすごく遅く感じられるかもしれません。そういう場合にはVirtualBoxの設定によりいくらか軽減できる可能性がありますので、下の設定を試してみてください。設定のためには一旦Ubuntuをシャットダウンして、VirtualBoxの設定を開いてください。
 
 <img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/vm_performance01.png" width="600" />
 <img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/vm_performance02.png" width="600" />  
