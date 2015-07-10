@@ -75,9 +75,10 @@ OSタイプは
 ### ターミナルの起動
 これ以降の手順はUbuntu上のターミナルを使いながら進めます。ターミナルの起動手順を説明します。
 
-<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal01.png" width="600" />
-<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal02.png" width="600" />
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal01.png" width="600" />  
+<img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal02.png" width="600" />  
 <img src="https://raw.githubusercontent.com/challecara/challecara/master/novice/images/open_terminal03.png" width="600" />  
+ジャン！起動しました。
 
 
 ## 4. ライブラリのインストール
