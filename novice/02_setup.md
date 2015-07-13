@@ -2,7 +2,7 @@
 
 ノービスコースではUnix系のOSの利用を推奨しています。これはRuby on Railsで書かれたWebアプリケーションのほとんどがUnix系のOS上で動作するように設計されており、それに伴いUnix系OS上の方が開発時に予期せぬ問題にぶつかりにくいためです。Macを使われている方はそのままMac上に開発環境を構築してください。Windowsを利用されている方は仮想化ソフトウェアを利用し、Windows上でUnix系OSの一種であるLinuxの環境を構築します。
 
-Macを利用されている方は[Rails GirlsのMac OS Xようセットアップガイド](http://railsgirls.jp/install/#setup_for_os_x)に従って進めてください。以下はWindowsを使われている方向けの説明になります。
+Macを利用されている方は[Rails GirlsのMac OS X用セットアップガイド](http://railsgirls.jp/install/#setup_for_os_x)に従って進めてください。以下はWindowsを使われている方向けの説明になります。
 
 ## Linuxについて
 
