@@ -32,7 +32,7 @@
 2. （一人で）Rubyの基本的な構文を学習する。
 3. （一人で）Ruby on Railsを利用したWebアプリ開発の流れを体験してみる
 4. （セミナー）Ruby on Railsがどのように動作しているかを理解する
-5. （一人で）Ruby on RailsをTwitterもどきを作る
+5. （一人で）Ruby on Railsを使ってTwitterもどきを作る
 6. （チームで）オリジナルTwitter風アプリをチーム開発する
 
 ### 1. （一人で）Ruby on Railsを開発できる環境をあなたのノートパソコン上に構築する。
