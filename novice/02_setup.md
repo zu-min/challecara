@@ -25,7 +25,8 @@ Windows上でUbuntuを動作させるためには仮想化という技術を利�
 
 Ubuntuの仮想マシンの作成方法はISOイメージから通常のハードウェア上にインストールする手順で作成する方法と、Ubuntuがインストールされたハードディスクの仮想イメージを元に作成する方法があります。今回は仮想ハードディスクイメージを元に作成します。
 
-[ここ](https://ubuntulinux.jp/download/ja-remix-vhd)から `Ubuntu 14.04 LTS` のイメージをダウンロードしてください。
+[ここ](https://ubuntulinux.jp/download/ja-remix-vhd)から `Ubuntu 14.04 LTS` のイメージをダウンロードしてください。  
+※32bitOSをご利用の方は `ubuntu-ja-12.04-desktop-i386-vhd.zip` をダウンロードしてください。
 
 ダウンロードしたら、VirtualBoxを起動し、[新規]をクリックします。仮想マシン作成ウィザードが開くので、画面の指示に従って入力していきます。
 
@@ -36,6 +37,12 @@ OSタイプは
 - バージョン: Ubuntu(64bit)
 
 を選んでください。
+
+もし64bitOSを利用されているかたで、ここで64bitが候補に表示されない場合は以下の解決策を試してみてください。
+
+1. [BIOSのCPUの設定で Intel(R) VirtualizationTechnologyを有効にする](http://qiita.com/kmats@github/items/a2396aa5b6f397d447b8)
+2. [Windowsの設定でHyper-Vを有効にする](http://little-beans.net/howto/virtualbox-64bit-os/)
+
 
 ### メモリーサイズ
 メモリーサイズはご利用のノートパソコンのメモリサイズに合わせて調整してください。ひとまず1024MB程度にしておけば良いでしょう。余裕がある場合は2048MBなど多めにしておくと動作が速くなると思います。
